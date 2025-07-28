@@ -12,11 +12,7 @@ Apaixonada pelo universo <strong>Full Stack</strong> e tudo o que envolve transf
 
 ---
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY3aGJkYmlsMnY0M2s2eDkzdjJtczFzb3doMDF4Z2tjZjJjdmN5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sYYuY5oV5oKuqUHZqJ/giphy.gif" width="120">
-</p>
-
-## 🌟 Quem sou eu?
+## 💖 Quem sou eu?
 
 - 👩‍💻 Amo desenvolver e ver as ideias tomando forma  
 - 🌱 Sempre aprendendo novas tecnologias  
@@ -47,9 +43,15 @@ Apaixonada pelo universo <strong>Full Stack</strong> e tudo o que envolve transf
 
 ---
 
-<p aling="center">
-  ✨ Obrigada por visitar meu universo 💫<br>
-  <em>#Dev</em> 💖
+
+<p align="center">
+   💫 Obrigada por visitar meu universo 💫<br>
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2U2NjN0dHhoa2l2Z2d1emFzdThocm9zZzU2b2J4bGhsamhhOXBiYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9nUGqKJLH64NzA4cJv/giphy.gif" width="250">
+</p>
+
+
 
 
