@@ -1,6 +1,6 @@
  <!-- 🪐 Banner no topo (coloque a URL do seu banner abaixo quando criar) -->
 <p align="center">
-  <img src="COLE_AQUI_A_URL_DO_SEU_BANNER" alt="banner galáctico da Amanda">
+  <img src="https://github.com/amandagrsl/amandagrsl/blob/main/assets/banner.jpeg?raw=true" alt="banner.jpeg">
 </p>
 
 <h1 align="center">✨ Oi, eu sou a Amanda! ✨</h1>
