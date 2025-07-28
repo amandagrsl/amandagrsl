@@ -1,13 +1,8 @@
- <!-- 🪐 Banner no topo (coloque a URL do seu banner abaixo quando criar) -->
 <p align="center">
-  <img src="https://github.com/amandagrsl/amandagrsl/blob/main/assets/bannerAR.jpeg?raw=true" alt="bannerAR.jpeg">
+  <img src="https://github.com/amandagrsl/amandagrsl/blob/main/assets/bannerAR.jpeg?raw=true" alt="bannerAR.jpeg" width="100%">
 </p>
 
 <h1 align="center">✨ Oi, eu sou a Amanda! ✨</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="100">
-</p>
 
 <p align="center">
 Graduada em <strong>Análise e Desenvolvimento de Sistemas</strong> 👩‍🎓<br>
@@ -17,11 +12,15 @@ Apaixonada pelo universo <strong>Full Stack</strong> e tudo o que envolve transf
 
 ---
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDY3aGJkYmlsMnY0M2s2eDkzdjJtczFzb3doMDF4Z2tjZjJjdmN5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sYYuY5oV5oKuqUHZqJ/giphy.gif" width="120">
+</p>
+
 ## 🌟 Quem sou eu?
 
-- 👩‍💻 Amo desenvolver e ver as ideias tomando forma
-- 🌱 Sempre aprendendo novas tecnologias
-- 🎨 Criatividade e elegância caminham lado a lado por aqui
+- 👩‍💻 Amo desenvolver e ver as ideias tomando forma  
+- 🌱 Sempre aprendendo novas tecnologias  
+- 🎨 Criatividade e elegância caminham lado a lado por aqui  
 
 ---
 
@@ -48,8 +47,9 @@ Apaixonada pelo universo <strong>Full Stack</strong> e tudo o que envolve transf
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="150"><br><br>
-  Obrigada por visitar meu universo 💫<br>
-  <em>#CódigoComAmor</em> 💖
+<p aling="center">
+  ✨ Obrigada por visitar meu universo 💫<br>
+  <em>#Dev</em> 💖
 </p>
+
+
