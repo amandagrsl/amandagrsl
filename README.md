@@ -1,4 +1,13 @@
+ <!-- 🪐 Banner no topo (coloque a URL do seu banner abaixo quando criar) -->
+<p align="center">
+  <img src="COLE_AQUI_A_URL_DO_SEU_BANNER" alt="banner galáctico da Amanda">
+</p>
+
 <h1 align="center">✨ Oi, eu sou a Amanda! ✨</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="100">
+</p>
 
 <p align="center">
 Graduada em <strong>Análise e Desenvolvimento de Sistemas</strong> 👩‍🎓<br>
@@ -8,35 +17,39 @@ Apaixonada pelo universo <strong>Full Stack</strong> e tudo o que envolve transf
 
 ---
 
-### 🛠️ Tecnologias que eu domino:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-
----
-
-### 🌌 Um pouco sobre mim:
+## 🌟 Quem sou eu?
 
 - 👩‍💻 Amo desenvolver e ver as ideias tomando forma
-- 🌱 Estou sempre aprendendo novas tecnologias
-- 🎨 Criatividade e código caminham lado a lado por aqui
-- 🚀 Buscando crescer no universo da tecnologia todos os dias
+- 🌱 Sempre aprendendo novas tecnologias
+- 🎨 Criatividade e elegância caminham lado a lado por aqui
 
 ---
 
-### 📫 Onde me encontrar:
-- ✉️ amandarochha2002@gmail.com
-- 💼 https://www.linkedin.com/in/amanda-rocha-68323a248/
-- 💻 [Meu GitHub](https://github.com/amandagrsl)
+## 🚀 Tecnologias e Ferramentas:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="50">
+</p>
+
+---
+
+## 💌 Onde me encontrar:
+
+<p align="center">
+  ✉️ amandarochha2002@gmail.com<br>
+  💼 <a href="https://www.linkedin.com/in/amandagrsl">Meu LinkedIn</a><br>
+  💻 <a href="https://github.com/amandagrsl">Meu GitHub</a>
+</p>
 
 ---
 
 <p align="center">
-✨ Obrigada por visitar meu universo 💫<br>
-<em>#CódigoComAmor</em> 💖
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="150"><br><br>
+  Obrigada por visitar meu universo 💫<br>
+  <em>#CódigoComAmor</em> 💖
 </p>
