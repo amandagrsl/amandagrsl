@@ -37,12 +37,11 @@ Apaixonada pelo universo <strong>Full Stack</strong> e tudo o que envolve transf
 
 <p align="center">
   ✉️ amandarochha2002@gmail.com<br>
-  💼 <a href="www.linkedin.com/in/amanda-rocha-68323a248>Meu LinkedIn</a><br>
+  💼 <a href="https://www.linkedin.com/in/amanda-rocha-68323a248">Meu LinkedIn</a><br>
   💻 <a href="https://github.com/amandagrsl">Meu GitHub</a>
 </p>
 
 ---
-
 
 <p align="center">
    💫 Obrigada por visitar meu universo 💫<br>
